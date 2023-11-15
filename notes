@@ -1,0 +1,157 @@
+<!-- In week 2 assigment i know how to do CSS to make my HTML website more styled and i also know what each selector is and what each one does (id;class;element) -->
+<!-- h1 {
+    font-size: 65px;
+    padding: 15px;
+    border-collapse: collapse;
+    border-style: ridge;
+    border-color: brown;
+    border-radius: 20px;
+    border-width: 20px;
+}
+
+#box-model {
+    padding: 25px;
+    border-style: solid;
+    border-width: 10px;
+    background-color: purple;
+    margin: 30px;
+    border-color: black;
+    color: yellow;
+    font-size: 25px;
+}
+
+body {
+    background-color: forestgreen;
+    border-style: double;
+    border-width: 50px;
+    border-color: black;
+    }
+
+    img {
+        width: 250px;
+        border-style: hidden;
+    }
+
+    .hov {
+        height: 200px;
+        width: 200px;
+        background-color: black;
+        color: white;
+        font-size: 30px;
+    }
+
+    .hov:hover {
+        background-color: yellow;
+        color: red;
+        font-size: 30px;
+    }
+
+    h1 {
+    font-size: 60px;
+    background-color: cornflowerblue;
+    border-style: dashed;
+    border-color: green;
+    color: yellow;
+    border-radius: 5px;
+    border-width: 10px;
+}
+
+.all li:nth-child(-n+3) {
+    background-color: gray
+}
+
+body {
+    background-color: red;
+}
+
+main {
+    font-size: 35px;
+    border-style: solid;
+    border-color: yellow;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+}
+
+img {
+    width: 250px;
+    border-style: dotted;
+    border-color: yellow;
+    border-radius: 10px;
+    border-width: 10px;
+}
+
+.hov {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-size: 35px;
+}
+
+.hov:hover {
+    background-color: yellow;
+    color: red;
+    font-size: 35px;
+}
+
+ol {
+    font-size: 35px;
+    color: whitesmoke;
+}
+
+.shadow-text {
+    text-shadow: forestgreen 1px 1px;
+}
+
+div {
+    background-color: brown;
+          border-style: solid;
+          border-color: red;
+          border-radius: 10px;
+          padding: 15px;
+          font-size: 30px;
+        color: blue;
+}
+
+h1 {
+    background-color: white;
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 10px;
+    padding: 25px;
+    font-size: 50px;
+color:blue
+}
+
+body {
+    background-color: gray
+}
+
+.shadow-text {
+    text-shadow: black 1px 1px;
+}
+
+.hov {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    font-size: 40px;
+}
+
+.hov:hover {
+    background-color: red;
+    color: blue;
+    font-size: 41px;
+}
+
+img {
+    width: 300px;
+    border-style: groove;
+    border-color: yellow;
+    border-radius: 15px;
+    border-width: 5px;
+} -->

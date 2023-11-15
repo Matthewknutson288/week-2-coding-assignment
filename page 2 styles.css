@@ -1,0 +1,57 @@
+h1 {
+    font-size: 60px;
+    background-color: cornflowerblue;
+    border-style: dashed;
+    border-color: green;
+    color: yellow;
+    border-radius: 5px;
+    border-width: 10px;
+}
+
+.all li:nth-child(-n+3) {
+    background-color: gray
+}
+    
+body {
+    background-color: red;
+}
+
+main {
+    font-size: 35px;
+    border-style: solid;
+    border-color: yellow;
+    background-color: blue;
+    color: white;
+    border-radius: 15px;
+}
+
+img {
+    width: 250px;
+    border-style: dotted;
+    border-color: yellow;
+    border-radius: 10px;
+    border-width: 10px;
+}
+
+.hov {
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-size: 35px;
+}
+
+.hov:hover {
+    background-color: yellow;
+    color: red;
+    font-size: 35px;
+}
+
+ol {
+    font-size: 35px;
+    color: whitesmoke;
+}
+
+.shadow-text {
+    text-shadow: forestgreen 1px 1px;
+}

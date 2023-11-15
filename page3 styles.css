@@ -1,0 +1,46 @@
+h1 {
+    font-size: 65px;
+    padding: 15px;
+    border-collapse: collapse;
+    border-style: ridge;
+    border-color: brown;
+    border-radius: 20px;
+    border-width: 20px;
+}
+
+#box-model {
+    padding: 25px;
+    border-style: solid;
+    border-width: 10px;
+    background-color: purple;
+    margin: 30px;
+    border-color: black;
+    color: yellow;
+    font-size: 25px;
+}
+
+body {
+    background-color: forestgreen;
+    border-style: double;
+    border-width: 50px;
+    border-color: black;
+    }
+
+    img {
+        width: 250px;
+        border-style: hidden;
+    }
+
+    .hov {
+        height: 200px;
+        width: 200px;
+        background-color: black;
+        color: white;
+        font-size: 30px;
+    }
+
+    .hov:hover {
+        background-color: yellow;
+        color: red;
+        font-size: 30px;
+    }
